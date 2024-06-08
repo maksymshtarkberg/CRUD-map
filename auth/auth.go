@@ -166,7 +166,7 @@ func HandleDeleteUser(um *UserManager) {
 			return
 		}
 
-		fmt.Print("\nUser succssesfuly deleted!")
+		fmt.Print("\nUser successfully deleted!")
 		return
 	}
 
